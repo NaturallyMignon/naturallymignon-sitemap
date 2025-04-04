@@ -1,0 +1,2 @@
+# naturallymignon-sitemaps
+Structured Sitemap
